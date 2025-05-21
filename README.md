@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Muhammad Iqbal Baiduri Yamani
-- 👀 I’m interested in UI/UX
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently an Undergraduate Information Systems Student at Institut Teknologi Sepuluh Nopember
-- 📫 How to reach me https://linktr.ee/m_iqbal_by
+- 📫 How to reach me: https://linktr.ee/m_iqbal_by
