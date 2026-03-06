@@ -11,13 +11,25 @@
 
 ---
 
+## 🎧 Currently Playing
+
+<div align="center">
+  
+<a href="https://MIqbalBY.pythonanywhere.com/link?theme=dark&scan=true">
+  <img src="https://MIqbalBY.pythonanywhere.com?theme=dark&scan=true" alt="Current Spotify Song" />
+</a>
+
+</div>
+
+---
+
 ## 🚀 About Me
 
 Welcome to my GitHub! I'm an Information Systems student at **ITS Surabaya** who loves mixing data, machine learning, and solid application development. 
 
 Right now, my brain is mostly occupied by my undergraduate thesis: tweaking **CNN-BiLSTM** models with **Genetic Algorithms** to predict future sales. 🤯 But when I'm not training neural networks or waiting for epochs to finish, I'm usually building apps, tinkering with CI/CD pipelines, or keeping my hacker instincts sharp with some Web Hacking/CTF.
 
-**TL;DR:** I write code, lift weights, and ride motorcycles. 🏍️💨
+**TL;DR:** I write code and train models. When I'm off-screen, I’m usually hitting the gym, playing badminton, or getting lost in epic lore and good music. 🏍️💨
 
 ---
 
@@ -67,26 +79,18 @@ Right now, my brain is mostly occupied by my undergraduate thesis: tweaking **CN
 
 ---
 
-## 🎧 Currently Playing
-
-<div align="center">
-  
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=m._iqbal_b.y.&cover_image=true&theme=novatoren&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](http://googleusercontent.com/spotify.com/6)
-
-</div>
-
----
-
 ## 👦🏻 Beyond the Screen (The Real Me)
+
+<div align="left">
 
 Because staring at a terminal 24/7 is bad for my posture, here is what I do offline:
 
-* **🎮 Gamer at Heart:** Whether it's doing leaps of faith in *Assassin's Creed*, shouting "BOY" in *God of War*, making tough choices in *Life is Strange*, or surviving *Resident Evil*, I'm all about that immersive gameplay.
-* **🎹 Music & Vibes:** Translating logic into melodies on the piano. Most likely listening to *Juicy Luicy*, *Reality Club*, and *Whisnu Santika* while coding.
-* **🏸 Court Addict:** When not writing code, I'm working on my footwork and smashes on the badminton court.
-* **🏋️‍♂️ Gym Rat:** My workout schedule is as structured as my database schemas. 7-day split, no rest for the wicked! 💪
-* **🏍️ Touring:** Debugging my mind through long motorcycle rides across the city or hills.
-* **🍿 Pop Culture:** Huge nerd for world-building. If it's *The Lord of the Rings*, *Harry Potter*, *Bleach*, or *Attack on Titan*, I'm in.
-* **🚫 Food Policy:** I will literally eat anything... as long as it doesn't swim or have scales. **Strictly NO fish or seafood.** 🐟🙅‍♂️
+* **🎮 Gamer at Heart:** Whether it's doing leaps of faith in *Assassin's Creed*, exploring epic worlds in *Final Fantasy*, making tough choices in *Life is Strange*, surviving *Resident Evil*, or hacking the system in *Watch Dogs*, I'm all about that immersive gameplay.
+* **🎹 Music & Vibes:** My coding soundtrack vary from the nostalgic pop-punk and rock anthems of *Avril Lavigne*, the 2nd gen K-Pop of *BIGBANG*, the melodic pop-rock hits of *Maroon 5*, to the polished indie-rock sounds of *Reality Club* and the infectious Indonesian Bounce and house beats of *Whisnu Santika*.
+* **🏃‍♂️ Physical Pursuits & Active Lifestyle:** I follow a structured *gym* program that I treat with the same precision as a database schema, ensuring every muscle group gets its turn. For a change of pace, I hit the *badminton* court to sharpen my footwork and refine my smashes, maintaining a high-energy "court addict" mentality. To reset and decompress, I find my version of mental debugging through *motorcycle touring*, taking long rides across cityscapes or into the hills to clear my head and recharge for the next sprint.
+* **🍿 Pop Culture:** My fascination spans from the foundational high-fantasy lore of *The Lord of the Rings* and its intricate Middle-earth mythology to the magical depth and nostalgic charm of the *Harry Potter* wizarding world. I also have a deep appreciation for the iconic power systems and legendary character arcs in Shonen classics like *Bleach* and *Naruto*, as well as the dark, mystery-driven narrative shifts and high-stakes world-building found in *Attack on Titan*.
+* **🚫 Food Policy:** I will literally eat anything... as long as it doesn't swim or have scales. **Strictly NO fish or seafood.* 🐟🙅‍♂️
+
+</div>
 
 ---
