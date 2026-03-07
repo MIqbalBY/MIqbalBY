@@ -78,20 +78,12 @@ Right now, my brain is mostly occupied by my undergraduate thesis: tweaking **CN
 <div align="center">
   <img src="https://github-profile-trophy-rosy-phi.vercel.app/?username=MIqbalBY&theme=onedark&row=2&column=3&no-frame=true" alt="GitHub Trophies"/>
 </div>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MIqbalBY/MIqbalBY/output/pacman-contribution-graph-dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MIqbalBY/MIqbalBY/output/pacman-contribution-graph.svg?v=2">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MIqbalBY/MIqbalBY/output/pacman-contribution-graph.svg?v=2">
-  </picture>
-</div>
 
 ---
 
 ## 👦🏻 Beyond the Screen (The Real Me)
 
 <div align="left">
-
 Because staring at a terminal 24/7 is bad for my posture, here is what I do offline:
 
 * **🎮 Gamer at Heart:** Whether it's doing leaps of faith in *Assassin's Creed*, exploring epic worlds in *Final Fantasy*, surviving the post-apocalyptic world in *The Last of Us*, battling bioweapons in *Resident Evil*, or hacking the system in *Watch Dogs*, I'm all about that immersive gameplay.
@@ -103,3 +95,11 @@ Because staring at a terminal 24/7 is bad for my posture, here is what I do offl
 </div>
 
 ---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MIqbalBY/MIqbalBY/output/pacman-contribution-graph-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MIqbalBY/MIqbalBY/output/pacman-contribution-graph.svg?v=2">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MIqbalBY/MIqbalBY/output/pacman-contribution-graph.svg?v=2">
+  </picture>
+</div>
