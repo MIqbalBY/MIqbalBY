@@ -78,11 +78,12 @@ Right now, my brain is mostly occupied by my undergraduate thesis: tweaking **CN
 <div align="center">
   <img src="https://github-profile-trophy-rosy-phi.vercel.app/?username=MIqbalBY&theme=onedark&row=2&column=3&no-frame=true" alt="GitHub Trophies"/>
 </div>
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MIqbalBY/MIqbalBY/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MIqbalBY/MIqbalBY/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MIqbalBY/MIqbalBY/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MIqbalBY/MIqbalBY/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MIqbalBY/MIqbalBY/output/github-contribution-grid-snake.svg">
+    <img alt="snake contribution graph" src="https://raw.githubusercontent.com/MIqbalBY/MIqbalBY/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
